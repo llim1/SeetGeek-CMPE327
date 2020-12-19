@@ -1,6 +1,14 @@
+# About this repository
+
+This repository is a mirrored archive of my group's original repository for the project. I am keeping it on my account so that my experiences and the codebase we worked on can be showcased independent of what the repo owner does with the original. 
+
+The goal of this project was to implement a simple web platform and comprehensively test it using methods learned throughout the course. The web platform itself is built with Flask, Python, and a MySQL database. 
+
+Unit testing was completed using Pytest and Selenium, along with GitHub Actions for CI. 
+
 # SeetGeek
 
-[![](https://github.com/CISC-CMPE-327/CI-Python/workflows/Python%20application/badge.svg)](https://github.com/jakeegan/Seet-Geek/actions)
+[![](https://github.com/CISC-CMPE-327/CI-Python/workflows/Python%20application/badge.svg)](https://github.com/llim1/SeetGeek-CMPE327/actions)
 
 ## Instructions: 
 
